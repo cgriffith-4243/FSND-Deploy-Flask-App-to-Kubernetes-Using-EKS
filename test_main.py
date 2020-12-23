@@ -20,6 +20,9 @@ def client():
 
     yield client
 
+# This test is to verify if build fails on a bad deployment
+def test_pipeline_fail(client):
+    assert False
 
 
 def test_health(client):
