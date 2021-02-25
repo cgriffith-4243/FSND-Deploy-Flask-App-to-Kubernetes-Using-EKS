@@ -31,4 +31,6 @@ This was a project created while learning full stack development in Flask and Py
 
 ## Authors
 
-Cameron Griffith authored the configuration files for this project, including 
+Cameron Griffith added / set up the configuration files for Docker, AWS, EKS, CodePipeline, and CodeBuild.
+
+The base code for this project was created by [`Udacity`](https://www.udacity.com) as part of the [`Full Stack Web Developer Nanodegree`](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) program.
